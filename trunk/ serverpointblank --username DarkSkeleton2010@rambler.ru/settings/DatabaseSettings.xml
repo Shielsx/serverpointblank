@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+ <Settings>
+ <!-- Loginserver Database host -->
+    <host>127.0.0.1</host>
+        
+        
+ <!-- Loginserver Database port -->
+        <port>3306</port>
+        
+        
+<!-- Loginserver Database user -->
+        <user>root</user>
+        
+        
+<!-- Loginserver Database pass -->
+        <pass>root</pass>
+        
+        
+<!-- Loginserver Database name -->
+        <name>PointBlank_db</name>
+ </Settings>
