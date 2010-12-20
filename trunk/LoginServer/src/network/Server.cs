@@ -62,8 +62,6 @@ namespace PointBlankServer.src.network
             byte[] message = new byte[200];
             int bytesRead;
 
-
-
             while (true)
             {
                 bytesRead = 0;
@@ -78,19 +76,15 @@ namespace PointBlankServer.src.network
                 if (PropertiesLoader.connector == "true")
                 {
 
-
                     if (bytesRead.GetHashCode().ToString() == "59")
                     {
                         clientStream.Write(LOGIN_PUZZLE2.packetbyte(), 0, LOGIN_PUZZLE2.packetlength());
                         Console.WriteLine("Sending packet " + "LOGIN_PUZZLE2");
                         Debug.writelog("Sending packet " + "LOGIN_PUZZLE2", "serverEmuPointBlank.log");
 
-
                         //clientStream.Write(LOGIN_PUZZLE3.packetbyte(), 0, LOGIN_PUZZLE3.packetlength());
                         //Console.WriteLine("Sending packet " + "LOGIN_PUZZLE3");
                         //Debug.writelog("Sending packet " + "LOGIN_PUZZLE3", "serverEmuPointBlank.log");
-
-
 
                         //clientStream.Write(LOGIN_PUZZLE4.packetbyte(), 0, LOGIN_PUZZLE4.packetlength());
                         //Console.WriteLine("Sending packet " + "LOGIN_PUZZLE4");
@@ -111,21 +105,16 @@ namespace PointBlankServer.src.network
                         //Console.WriteLine("Sending packet " + "LOGIN_PUZZLE3");
                         //Debug.writelog("Sending packet " + "LOGIN_PUZZLE3", "serverEmuPointBlank.log");
                         nextpacket = 2;
-
                     }
 
                     if (bytesRead.GetHashCode().ToString() == "4" && nextpacket == 2)
                     {
+                        //Thread.Sleep(1000);
 
-
-                            //clientStream.Write(LOGIN_PUZZLE4.packetbyte(), 0, LOGIN_PUZZLE4.packetlength());
-                            //Console.WriteLine("Sending packet " + "LOGIN_PUZZLE4");
-                            //Debug.writelog("Sending packet " + "LOGIN_PUZZLE4", "serverEmuPointBlank.log");
-                     
-
-
+                        //clientStream.Write(LOGIN_PUZZLE4.packetbyte(), 0, LOGIN_PUZZLE4.packetlength());
+                        //Console.WriteLine("Sending packet " + "LOGIN_PUZZLE4");
+                        //Debug.writelog("Sending packet " + "LOGIN_PUZZLE4", "serverEmuPointBlank.log");
                     }
-
 
                     if (bytesRead == 0)
                     {
@@ -134,11 +123,7 @@ namespace PointBlankServer.src.network
                         break;
                     }
 
-
-
                 }
-
-
 
             }
 
