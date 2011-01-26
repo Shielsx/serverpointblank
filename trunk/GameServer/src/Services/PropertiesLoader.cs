@@ -17,7 +17,6 @@ namespace PointBlankServer.src
         static public string connector = null;
 
         static public string ConnectionDeny = null;
-        static public string Debug = null;
 
         //DataBase Settings
         static public string dbhost = null;
@@ -61,10 +60,6 @@ namespace PointBlankServer.src
                 {
                    ConnectionDeny = reader.ReadInnerXml();
                 }
-                if (reader.Name == "Debug")
-                {
-                    Debug = reader.ReadInnerXml();
-                }
             }
             if ( port.Length > 0 && ip.Length > 0 && connector.Length >0 )
             {
@@ -73,7 +68,6 @@ namespace PointBlankServer.src
                 ConsoleUtil.consoleinfo("Server use this port: " + port);
                 ConsoleUtil.consoleinfo("Server enabled: " + connector);
                 ConsoleUtil.consoleinfo("Connection Deny: " + ConnectionDeny);
-                ConsoleUtil.consoleinfo("Debug: " + Debug);
                 return true;
             }
             else
