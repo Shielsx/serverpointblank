@@ -1,4 +1,7 @@
+#labels Zepetto,NCSoft,MainMenu,Group,News,Forum
 ==Главное Меню==
+
+[http://groups.google.com/group/DarkTeamPB/browse_thread/thread/78d4881d7b6ed7ba?hl=ru# Новости]<br>
 [http://groups.google.com/group/DarkTeamPB?hl=ru Группа в Google]<br>
 [http://groups.google.com/group/DarkTeamPB/topics?hl=ru Форум]<br>
 [AboutGame О игре]<br>
