@@ -1,0 +1,8 @@
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\ResolveAssemblyReference.cache
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\PBAuth.PBAuth.resources
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\PBAuth.Properties.Resources.resources
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\PBAuth.csproj.GenerateResource.Cache
+F:\30.01.11\PointBlankServer\PBAuth\bin\Debug\PBAuth.exe
+F:\30.01.11\PointBlankServer\PBAuth\bin\Debug\PBAuth.pdb
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\PBAuth.exe
+F:\30.01.11\PointBlankServer\PBAuth\obj\Debug\PBAuth.pdb
