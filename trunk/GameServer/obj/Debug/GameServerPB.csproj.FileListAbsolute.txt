@@ -1,0 +1,18 @@
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\bin\Debug\LogLG.dll
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\bin\Debug\GameServerPB.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\bin\Debug\GameServerPB.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\obj\Debug\GameServerPB.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\obj\Debug\GameServerPB.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\obj\Debug\GameServerPB.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\obj\Debug\GameServerPB.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\bin\Debug\GameServerPB.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\bin\Debug\GameServerPB.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\bin\Debug\LogLG.dll
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+F:\30.01.11\PointBlankServer\GameServer\obj\Debug\GameServerPB.exe
+F:\30.01.11\PointBlankServer\GameServer\obj\Debug\GameServerPB.pdb
+F:\30.01.11\PointBlankServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+F:\30.01.11\PointBlankServer\GameServer\bin\Debug\GameServerPB.exe
+F:\30.01.11\PointBlankServer\GameServer\bin\Debug\GameServerPB.pdb
+F:\30.01.11\PointBlankServer\GameServer\bin\Debug\LogLG.dll

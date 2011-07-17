@@ -1,0 +1,1730 @@
+﻿26.01.2011 14:21:31  -  [Debugging] Client connected.
+26.01.2011 14:21:32  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:21:34  -  [Debugging] opcode: 169017378
+26.01.2011 14:21:34  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:21:34  -  [Debugging] opcode: 168493056
+26.01.2011 14:24:08  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 14:24:08  -  [Debugging] Server by DarkTeam
+26.01.2011 14:24:08  -  [Debugging] Revision: 1
+26.01.2011 14:24:08  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 14:24:09  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 14:24:09  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 14:24:09  -  [Debugging] Server use this port: 39190
+26.01.2011 14:24:09  -  [Debugging] Server enabled: true
+26.01.2011 14:24:09  -  [Debugging] Connection Deny: false
+26.01.2011 14:24:09  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 14:24:09  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 14:24:09  -  [Debugging] Database port: 3306
+26.01.2011 14:24:09  -  [Debugging] Database user: root
+26.01.2011 14:24:09  -  [Debugging] Database name: PointBlank_db
+26.01.2011 14:24:09  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 14:25:12  -  [Debugging] Client connected.
+26.01.2011 14:25:14  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:25:16  -  [Debugging] opcode: 169017378
+26.01.2011 14:25:16  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:25:16  -  [Debugging] opcode: 168493056
+26.01.2011 14:25:16  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 14:25:26  -  [Debugging] opcode: 168624132
+26.01.2011 14:26:26  -  [Debugging] opcode: 168755200
+26.01.2011 14:29:10  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 14:29:10  -  [Debugging] Server by DarkTeam
+26.01.2011 14:29:10  -  [Debugging] Revision: 1
+26.01.2011 14:29:10  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 14:29:10  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 14:29:10  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 14:29:10  -  [Debugging] Server use this port: 39190
+26.01.2011 14:29:10  -  [Debugging] Server enabled: true
+26.01.2011 14:29:10  -  [Debugging] Connection Deny: false
+26.01.2011 14:29:10  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 14:29:10  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 14:29:10  -  [Debugging] Database port: 3306
+26.01.2011 14:29:10  -  [Debugging] Database user: root
+26.01.2011 14:29:10  -  [Debugging] Database name: PointBlank_db
+26.01.2011 14:29:10  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 14:30:29  -  [Debugging] Client connected.
+26.01.2011 14:30:31  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:30:33  -  [Debugging] opcode: 169017378
+26.01.2011 14:30:33  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:30:33  -  [Debugging] opcode: 168493056
+26.01.2011 14:30:33  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 14:30:35  -  [Debugging] opcode: 168624132
+26.01.2011 14:30:35  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 14:30:35  -  [Debugging] opcode: 184614912
+26.01.2011 14:32:29  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 14:32:29  -  [Debugging] Server by DarkTeam
+26.01.2011 14:32:29  -  [Debugging] Revision: 1
+26.01.2011 14:32:29  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 14:32:29  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 14:32:29  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 14:32:29  -  [Debugging] Server use this port: 39190
+26.01.2011 14:32:29  -  [Debugging] Server enabled: true
+26.01.2011 14:32:29  -  [Debugging] Connection Deny: false
+26.01.2011 14:32:29  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 14:32:29  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 14:32:29  -  [Debugging] Database port: 3306
+26.01.2011 14:32:29  -  [Debugging] Database user: root
+26.01.2011 14:32:29  -  [Debugging] Database name: PointBlank_db
+26.01.2011 14:32:29  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 14:32:31  -  [Debugging] Client connected.
+26.01.2011 14:32:32  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:32:39  -  [Debugging] opcode: 0
+26.01.2011 14:32:39  -  [Debugging] Connection close.
+26.01.2011 14:33:55  -  [Debugging] Client connected.
+26.01.2011 14:33:56  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:33:58  -  [Debugging] opcode: 169017378
+26.01.2011 14:33:58  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:33:58  -  [Debugging] opcode: 168493056
+26.01.2011 14:33:58  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 14:34:00  -  [Debugging] opcode: 168624132
+26.01.2011 14:34:00  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 14:34:01  -  [Debugging] opcode: 184614912
+26.01.2011 14:34:01  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 14:34:01  -  [Debugging] opcode: 218431492
+26.01.2011 14:34:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:04  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:06  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:08  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:10  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:12  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:14  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:16  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:18  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:20  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:22  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:24  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:26  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:28  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:30  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:32  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:34  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:36  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:38  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:40  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:42  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:44  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:46  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:48  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:50  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:52  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:54  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:56  -  [Debugging] opcode: 184745984
+26.01.2011 14:34:58  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:00  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:04  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:06  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:08  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:10  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:12  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:14  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:16  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:18  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:18  -  [Debugging] opcode: 35651584
+26.01.2011 14:35:20  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:22  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:24  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:26  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:28  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:30  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:32  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:34  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:36  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:38  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:40  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:42  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:44  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:46  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:48  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:50  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:52  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:54  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:56  -  [Debugging] opcode: 184745984
+26.01.2011 14:35:58  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:00  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:04  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:06  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:08  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:10  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:12  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:14  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:16  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:18  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:20  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:22  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:24  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:26  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:28  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:30  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:32  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:34  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:36  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:38  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:40  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:42  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:44  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:46  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:48  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:50  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:52  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:54  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:56  -  [Debugging] opcode: 184745984
+26.01.2011 14:36:58  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:00  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:04  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:06  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:08  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:10  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:12  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:14  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:16  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:18  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:20  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:22  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:24  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:26  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:28  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:30  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:32  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:34  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:36  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:38  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:40  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:42  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:44  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:46  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:48  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:50  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:52  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:54  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:56  -  [Debugging] opcode: 184745984
+26.01.2011 14:37:58  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:00  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:04  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:06  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:08  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:10  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:12  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:14  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:16  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:18  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:20  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:22  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:24  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:25  -  [Debugging] opcode: 35651584
+26.01.2011 14:38:26  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:28  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:30  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:32  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:34  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:36  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:38  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:40  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:42  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:44  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:46  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:48  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:50  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:52  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:54  -  [Debugging] opcode: 184745984
+26.01.2011 14:38:56  -  [Debugging] opcode: 184745984
+26.01.2011 14:39:13  -  [Debugging] opcode: 184745984
+26.01.2011 14:39:13  -  [Debugging] opcode: 184745984
+26.01.2011 14:39:13  -  [Debugging] opcode: 0
+26.01.2011 14:39:14  -  [Debugging] opcode: 35651584
+26.01.2011 14:39:25  -  [Debugging] opcode: 35651584
+26.01.2011 14:39:25  -  [Debugging] Connection close.
+26.01.2011 14:41:12  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 14:41:12  -  [Debugging] Server by DarkTeam
+26.01.2011 14:41:12  -  [Debugging] Revision: 1
+26.01.2011 14:41:12  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 14:41:12  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 14:41:12  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 14:41:12  -  [Debugging] Server use this port: 39190
+26.01.2011 14:41:12  -  [Debugging] Server enabled: true
+26.01.2011 14:41:12  -  [Debugging] Connection Deny: false
+26.01.2011 14:41:12  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 14:41:12  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 14:41:12  -  [Debugging] Database port: 3306
+26.01.2011 14:41:12  -  [Debugging] Database user: root
+26.01.2011 14:41:12  -  [Debugging] Database name: PointBlank_db
+26.01.2011 14:41:12  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 14:42:20  -  [Debugging] Client connected.
+26.01.2011 14:42:22  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:42:24  -  [Debugging] opcode: 169017378
+26.01.2011 14:42:24  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:42:24  -  [Debugging] opcode: 168493056
+26.01.2011 14:42:24  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 14:42:25  -  [Debugging] opcode: 168624132
+26.01.2011 14:42:25  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 14:42:26  -  [Debugging] opcode: 184614912
+26.01.2011 14:42:26  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 14:42:26  -  [Debugging] opcode: 218431492
+26.01.2011 14:42:27  -  [Debugging] opcode: 184745984
+26.01.2011 14:42:29  -  [Debugging] opcode: 184745984
+26.01.2011 14:42:31  -  [Debugging] opcode: 184745984
+26.01.2011 14:42:33  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:02  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:03  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:05  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:07  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:09  -  [Debugging] opcode: 184745984
+26.01.2011 14:43:30  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 14:43:30  -  [Debugging] Server by DarkTeam
+26.01.2011 14:43:30  -  [Debugging] Revision: 1
+26.01.2011 14:43:30  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 14:43:30  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 14:43:30  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 14:43:30  -  [Debugging] Server use this port: 39190
+26.01.2011 14:43:30  -  [Debugging] Server enabled: true
+26.01.2011 14:43:30  -  [Debugging] Connection Deny: false
+26.01.2011 14:43:30  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 14:43:30  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 14:43:30  -  [Debugging] Database port: 3306
+26.01.2011 14:43:30  -  [Debugging] Database user: root
+26.01.2011 14:43:30  -  [Debugging] Database name: PointBlank_db
+26.01.2011 14:43:30  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 14:44:41  -  [Debugging] Client connected.
+26.01.2011 14:44:42  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 14:44:44  -  [Debugging] opcode: 169017378
+26.01.2011 14:44:44  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 14:44:44  -  [Debugging] opcode: 168493056
+26.01.2011 14:44:44  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 14:44:45  -  [Debugging] opcode: 168624132
+26.01.2011 14:44:45  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 14:44:46  -  [Debugging] opcode: 184614912
+26.01.2011 14:44:46  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 14:44:46  -  [Debugging] opcode: 218431492
+26.01.2011 14:44:47  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:47  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:47  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:49  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:49  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:49  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:51  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:51  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:51  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:53  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:53  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:53  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:55  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:55  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:55  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:57  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:57  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:57  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:44:59  -  [Debugging] opcode: 184745984
+26.01.2011 14:44:59  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:44:59  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:01  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:01  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:01  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:03  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:03  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:03  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:05  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:05  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:05  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:07  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:07  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:07  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:09  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:09  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:09  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:11  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:11  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:11  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:13  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:13  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:13  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:15  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:15  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:15  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:17  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:17  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:17  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:19  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:19  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:19  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:21  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:21  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:21  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:23  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:23  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:23  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:25  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:25  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:25  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:27  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:27  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:27  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:29  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:29  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:29  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:31  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:31  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:31  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:33  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:33  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:33  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:33  -  [Debugging] opcode: 35651584
+26.01.2011 14:45:35  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:35  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:35  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:37  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:37  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:37  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:38  -  [Debugging] opcode: 35651584
+26.01.2011 14:45:39  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:39  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:39  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:41  -  [Debugging] opcode: 184745984
+26.01.2011 14:45:41  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 14:45:41  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 14:45:42  -  [Debugging] opcode: 185139283
+26.01.2011 14:45:42  -  [Debugging] opcode: 0
+26.01.2011 14:45:52  -  [Debugging] opcode: 35651584
+26.01.2011 14:45:55  -  [Debugging] opcode: 35651584
+26.01.2011 14:45:55  -  [Debugging] opcode: 185008129
+26.01.2011 14:45:59  -  [Debugging] opcode: 35651584
+26.01.2011 14:46:12  -  [Debugging] opcode: 218169348
+26.01.2011 15:36:33  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:36:33  -  [Debugging] Server by DarkTeam
+26.01.2011 15:36:33  -  [Debugging] Revision: 1
+26.01.2011 15:36:33  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:36:33  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:36:33  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:36:33  -  [Debugging] Server use this port: 39190
+26.01.2011 15:36:33  -  [Debugging] Server enabled: true
+26.01.2011 15:36:33  -  [Debugging] Connection Deny: false
+26.01.2011 15:36:33  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:36:33  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:36:33  -  [Debugging] Database port: 3306
+26.01.2011 15:36:33  -  [Debugging] Database user: root
+26.01.2011 15:36:33  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:36:33  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:37:54  -  [Debugging] Client connected.
+26.01.2011 15:37:56  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:37:58  -  [Debugging] opcode: 169017378
+26.01.2011 15:37:58  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:37:58  -  [Debugging] opcode: 168493056
+26.01.2011 15:37:58  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:37:59  -  [Debugging] opcode: 168624132
+26.01.2011 15:37:59  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:38:00  -  [Debugging] opcode: 184614912
+26.01.2011 15:38:00  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:38:00  -  [Debugging] opcode: 218431492
+26.01.2011 15:38:01  -  [Debugging] opcode: 184745984
+26.01.2011 15:38:01  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:38:01  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:38:01  -  [Debugging] Sending packet SM_Error_Static
+26.01.2011 15:38:01  -  [Debugging] opcode: 184745984
+26.01.2011 15:38:01  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:38:05  -  [Debugging] Connection close.
+26.01.2011 15:40:45  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:40:45  -  [Debugging] Server by DarkTeam
+26.01.2011 15:40:45  -  [Debugging] Revision: 1
+26.01.2011 15:40:45  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:40:45  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:40:45  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:40:45  -  [Debugging] Server use this port: 39190
+26.01.2011 15:40:45  -  [Debugging] Server enabled: true
+26.01.2011 15:40:45  -  [Debugging] Connection Deny: false
+26.01.2011 15:40:45  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:40:45  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:40:45  -  [Debugging] Database port: 3306
+26.01.2011 15:40:45  -  [Debugging] Database user: root
+26.01.2011 15:40:45  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:40:45  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:41:52  -  [Debugging] Client connected.
+26.01.2011 15:41:53  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:41:55  -  [Debugging] opcode: 169017378
+26.01.2011 15:41:55  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:41:55  -  [Debugging] opcode: 168493056
+26.01.2011 15:41:55  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:41:56  -  [Debugging] opcode: 168624132
+26.01.2011 15:41:56  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:41:57  -  [Debugging] opcode: 184614912
+26.01.2011 15:41:57  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:41:57  -  [Debugging] opcode: 218431492
+26.01.2011 15:41:58  -  [Debugging] opcode: 184745984
+26.01.2011 15:41:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:41:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:41:58  -  [Debugging] Sending packet LOGIN_PUZZLE10
+26.01.2011 15:41:58  -  [Debugging] opcode: 184745984
+26.01.2011 15:41:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:41:58  -  [Debugging] Connection close.
+26.01.2011 15:42:48  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:42:48  -  [Debugging] Server by DarkTeam
+26.01.2011 15:42:48  -  [Debugging] Revision: 1
+26.01.2011 15:42:48  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:42:48  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:42:48  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:42:48  -  [Debugging] Server use this port: 39190
+26.01.2011 15:42:48  -  [Debugging] Server enabled: true
+26.01.2011 15:42:48  -  [Debugging] Connection Deny: false
+26.01.2011 15:42:48  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:42:48  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:42:48  -  [Debugging] Database port: 3306
+26.01.2011 15:42:48  -  [Debugging] Database user: root
+26.01.2011 15:42:48  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:42:48  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:43:44  -  [Debugging] Client connected.
+26.01.2011 15:43:45  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:43:47  -  [Debugging] opcode: 169017378
+26.01.2011 15:43:47  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:43:47  -  [Debugging] opcode: 168493056
+26.01.2011 15:43:47  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:43:49  -  [Debugging] opcode: 168624132
+26.01.2011 15:43:49  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:43:49  -  [Debugging] opcode: 184614912
+26.01.2011 15:43:49  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:43:50  -  [Debugging] opcode: 218431492
+26.01.2011 15:43:50  -  [Debugging] opcode: 184745984
+26.01.2011 15:43:50  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:43:50  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:43:52  -  [Debugging] opcode: 184745984
+26.01.2011 15:43:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:43:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:43:54  -  [Debugging] opcode: 184745984
+26.01.2011 15:43:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:43:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:43:56  -  [Debugging] opcode: 184745984
+26.01.2011 15:43:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:43:56  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:43:58  -  [Debugging] opcode: 184745984
+26.01.2011 15:43:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:43:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:00  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:02  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:02  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:04  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:06  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:08  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:08  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:10  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:10  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:12  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:12  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:12  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:14  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:16  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:16  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:18  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:18  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:20  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:22  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:22  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:22  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:24  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:24  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:24  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:26  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:26  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:28  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:28  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:30  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:32  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:32  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:32  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:34  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:34  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:36  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:36  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:36  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:38  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:38  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:38  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:40  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:40  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:40  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:42  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:42  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:42  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:44  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:44  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:44  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:46  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:48  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:50  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:50  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:50  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:51  -  [Debugging] opcode: 35651584
+26.01.2011 15:44:52  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:54  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:56  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:56  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:44:58  -  [Debugging] opcode: 184745984
+26.01.2011 15:44:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:44:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:00  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:02  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:02  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:04  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:06  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:08  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:08  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:10  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:10  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:12  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:12  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:12  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:14  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:16  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:16  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:18  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:18  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:20  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:22  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:22  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:22  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:24  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:24  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:24  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:26  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:26  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:28  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:28  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:30  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:32  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:32  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:32  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:34  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:34  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:36  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:36  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:36  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:38  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:38  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:38  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:40  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:40  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:40  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:42  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:42  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:42  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:44  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:44  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:44  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:46  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:48  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:50  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:50  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:50  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:52  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:54  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:56  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:56  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:45:59  -  [Debugging] opcode: 184745984
+26.01.2011 15:45:59  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:45:59  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:00  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:02  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:02  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:04  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:06  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:08  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:08  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:10  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:11  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:12  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:12  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:13  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:14  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:16  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:16  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:18  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:18  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:20  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:22  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:22  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:23  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:24  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:24  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:25  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:26  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:26  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:28  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:28  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:30  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:32  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:32  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:33  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:34  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:34  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:36  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:36  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:37  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:38  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:38  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:38  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:40  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:40  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:40  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:42  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:42  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:43  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:44  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:44  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:44  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:46  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:48  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:50  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:51  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:51  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:52  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:53  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:54  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:56  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:57  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:46:58  -  [Debugging] opcode: 184745984
+26.01.2011 15:46:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:46:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:00  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:03  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:03  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:03  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:05  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:05  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:05  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:07  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:07  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:07  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:09  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:09  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:09  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:11  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:11  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:11  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:13  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:13  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:13  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:15  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:15  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:15  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:17  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:17  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:17  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:19  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:19  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:19  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:21  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:21  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:21  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:23  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:23  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:23  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:25  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:25  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:25  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:27  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:27  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:27  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:29  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:29  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:29  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:31  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:31  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:31  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:33  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:33  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:33  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:35  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:35  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:35  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:37  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:37  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:37  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:39  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:39  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:39  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:41  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:41  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:41  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:43  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:43  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:43  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:45  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:45  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:45  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:47  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:47  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:47  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:49  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:49  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:49  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:51  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:51  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:51  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:53  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:53  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:53  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:55  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:55  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:55  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:57  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:57  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:57  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:47:58  -  [Debugging] opcode: 35651584
+26.01.2011 15:47:59  -  [Debugging] opcode: 184745984
+26.01.2011 15:47:59  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:47:59  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:48:01  -  [Debugging] opcode: 184745984
+26.01.2011 15:48:01  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:48:01  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:48:05  -  [Debugging] opcode: 184745984
+26.01.2011 15:48:05  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:48:05  -  [Debugging] Connection close.
+26.01.2011 15:49:59  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:49:59  -  [Debugging] Server by DarkTeam
+26.01.2011 15:49:59  -  [Debugging] Revision: 1
+26.01.2011 15:49:59  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:49:59  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:49:59  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:49:59  -  [Debugging] Server use this port: 39190
+26.01.2011 15:49:59  -  [Debugging] Server enabled: true
+26.01.2011 15:49:59  -  [Debugging] Connection Deny: false
+26.01.2011 15:49:59  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:49:59  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:49:59  -  [Debugging] Database port: 3306
+26.01.2011 15:49:59  -  [Debugging] Database user: root
+26.01.2011 15:49:59  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:49:59  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:50:56  -  [Debugging] Client connected.
+26.01.2011 15:50:57  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:51:00  -  [Debugging] opcode: 169017378
+26.01.2011 15:51:00  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:51:00  -  [Debugging] opcode: 168493056
+26.01.2011 15:51:00  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:51:01  -  [Debugging] opcode: 168624132
+26.01.2011 15:51:01  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:51:01  -  [Debugging] opcode: 184614912
+26.01.2011 15:51:01  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:51:02  -  [Debugging] opcode: 218431492
+26.01.2011 15:51:02  -  [Debugging] opcode: 184745984
+26.01.2011 15:51:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:51:02  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:51:02  -  [Debugging] Sending packet LOGIN_PUZZLE10UNK
+26.01.2011 15:51:02  -  [Debugging] opcode: 184745984
+26.01.2011 15:51:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:51:03  -  [Debugging] Connection close.
+26.01.2011 15:53:11  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:53:11  -  [Debugging] Server by DarkTeam
+26.01.2011 15:53:11  -  [Debugging] Revision: 1
+26.01.2011 15:53:11  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:53:11  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:53:11  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:53:11  -  [Debugging] Server use this port: 39190
+26.01.2011 15:53:11  -  [Debugging] Server enabled: true
+26.01.2011 15:53:11  -  [Debugging] Connection Deny: false
+26.01.2011 15:53:11  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:53:11  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:53:11  -  [Debugging] Database port: 3306
+26.01.2011 15:53:11  -  [Debugging] Database user: root
+26.01.2011 15:53:11  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:53:11  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:54:14  -  [Debugging] Client connected.
+26.01.2011 15:54:15  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:54:17  -  [Debugging] opcode: 169017378
+26.01.2011 15:54:17  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:54:18  -  [Debugging] opcode: 168493056
+26.01.2011 15:54:18  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:55:18  -  [Debugging] opcode: 168755200
+26.01.2011 15:55:18  -  [Debugging] opcode: 168624132
+26.01.2011 15:55:18  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:55:19  -  [Debugging] opcode: 184614912
+26.01.2011 15:55:19  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:55:20  -  [Debugging] opcode: 218431492
+26.01.2011 15:55:20  -  [Debugging] opcode: 184745984
+26.01.2011 15:55:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:55:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:55:20  -  [Debugging] Sending packet LOGIN_PUZZLE10UNK
+26.01.2011 15:55:20  -  [Debugging] opcode: 184745984
+26.01.2011 15:55:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:55:20  -  [Debugging] Incorrect closed connection...
+26.01.2011 15:55:20  -  [Debugging] System.IO.IOException: Не удается записать данные в транспортное соединение: Программа на вашем хост-компьютере разорвала установленное подключение. ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в PointBlankServer.src.network.Server.HandleClientComm(Object client) в G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\src\network\Server.cs:строка 172
+26.01.2011 15:55:20  -  [Debugging] Connection close.
+26.01.2011 15:56:42  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:56:42  -  [Debugging] Server by DarkTeam
+26.01.2011 15:56:42  -  [Debugging] Revision: 1
+26.01.2011 15:56:42  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:56:42  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:56:42  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:56:42  -  [Debugging] Server use this port: 39190
+26.01.2011 15:56:42  -  [Debugging] Server enabled: true
+26.01.2011 15:56:42  -  [Debugging] Connection Deny: false
+26.01.2011 15:56:42  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:56:42  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:56:42  -  [Debugging] Database port: 3306
+26.01.2011 15:56:42  -  [Debugging] Database user: root
+26.01.2011 15:56:42  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:56:42  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:57:40  -  [Debugging] Client connected.
+26.01.2011 15:57:41  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:57:43  -  [Debugging] opcode: 169017378
+26.01.2011 15:57:43  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:57:43  -  [Debugging] opcode: 168493056
+26.01.2011 15:57:43  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:57:45  -  [Debugging] opcode: 168624132
+26.01.2011 15:57:45  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:57:45  -  [Debugging] opcode: 184614912
+26.01.2011 15:57:45  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:57:46  -  [Debugging] opcode: 218431492
+26.01.2011 15:57:46  -  [Debugging] opcode: 184745984
+26.01.2011 15:57:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:57:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:57:46  -  [Debugging] Sending packet LOGIN_PUZZLE10UNK
+26.01.2011 15:57:46  -  [Debugging] opcode: 184745984
+26.01.2011 15:57:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:57:46  -  [Debugging] Incorrect closed connection...
+26.01.2011 15:57:47  -  [Debugging] System.IO.IOException: Не удается записать данные в транспортное соединение: Программа на вашем хост-компьютере разорвала установленное подключение. ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в PointBlankServer.src.network.Server.HandleClientComm(Object client) в G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\src\network\Server.cs:строка 172
+26.01.2011 15:57:47  -  [Debugging] Connection close.
+26.01.2011 15:58:29  -  [Debugging] STARTING Point Blank Game SERVER
+26.01.2011 15:58:29  -  [Debugging] Server by DarkTeam
+26.01.2011 15:58:29  -  [Debugging] Revision: 1
+26.01.2011 15:58:29  -  [Debugging] 
+###########################Properties###########################
+
+26.01.2011 15:58:29  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+26.01.2011 15:58:29  -  [Debugging] Server use this ip: 109.105.134.66
+26.01.2011 15:58:29  -  [Debugging] Server use this port: 39190
+26.01.2011 15:58:29  -  [Debugging] Server enabled: true
+26.01.2011 15:58:29  -  [Debugging] Connection Deny: false
+26.01.2011 15:58:29  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+26.01.2011 15:58:29  -  [Debugging] DataBase host: 127.0.0.1
+26.01.2011 15:58:29  -  [Debugging] Database port: 3306
+26.01.2011 15:58:29  -  [Debugging] Database user: root
+26.01.2011 15:58:29  -  [Debugging] Database name: PointBlank_db
+26.01.2011 15:58:29  -  [Debugging] 
+###########################Started###########################
+
+26.01.2011 15:59:19  -  [Debugging] Client connected.
+26.01.2011 15:59:21  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 15:59:23  -  [Debugging] opcode: 169017378
+26.01.2011 15:59:23  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 15:59:23  -  [Debugging] opcode: 168493056
+26.01.2011 15:59:23  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 15:59:25  -  [Debugging] opcode: 168624132
+26.01.2011 15:59:25  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 15:59:25  -  [Debugging] opcode: 184614912
+26.01.2011 15:59:25  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 15:59:26  -  [Debugging] opcode: 218431492
+26.01.2011 15:59:26  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:26  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:28  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:28  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:30  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:32  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:32  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:32  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:34  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:34  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:36  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:36  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:36  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:38  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:38  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:38  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:40  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:40  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:40  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:42  -  [Debugging] opcode: 184745984
+26.01.2011 15:59:42  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 15:59:42  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 15:59:43  -  [Debugging] opcode: 35651584
+26.01.2011 15:59:43  -  [Debugging] opcode: 185401344
+26.01.2011 16:00:08  -  [Debugging] opcode: 185401344
+26.01.2011 16:00:08  -  [Debugging] Connection close.
+26.01.2011 16:01:42  -  [Debugging] Client connected.
+26.01.2011 16:01:43  -  [Debugging] Sending packet LOGIN_REQUEST
+26.01.2011 16:01:45  -  [Debugging] opcode: 169017378
+26.01.2011 16:01:45  -  [Debugging] Sending packet LOGIN_PUZZLE4
+26.01.2011 16:01:45  -  [Debugging] opcode: 168493056
+26.01.2011 16:01:45  -  [Debugging] Sending packet LOGIN_PUZZLE5
+26.01.2011 16:01:47  -  [Debugging] opcode: 168624132
+26.01.2011 16:01:47  -  [Debugging] Sending packet LOGIN_PUZZLE6
+26.01.2011 16:01:47  -  [Debugging] opcode: 184614912
+26.01.2011 16:01:47  -  [Debugging] Sending packet LOGIN_PUZZLE7
+26.01.2011 16:01:48  -  [Debugging] opcode: 218431492
+26.01.2011 16:01:48  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:01:50  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:50  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:50  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:01:52  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:01:54  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:01:56  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:56  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:01:58  -  [Debugging] opcode: 184745984
+26.01.2011 16:01:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:01:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:00  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:04  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:04  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:06  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:08  -  [Debugging] opcode: 35651584
+26.01.2011 16:02:08  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:08  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:10  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:10  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:10  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:11  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:11  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:12  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:12  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:12  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:12  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:12  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:12  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:13  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:13  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:14  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:14  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:14  -  [Debugging] opcode: 169803784
+26.01.2011 16:02:16  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:16  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:18  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:18  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:20  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:22  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:22  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:22  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:24  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:24  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:24  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:26  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:26  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:28  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:28  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:30  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+26.01.2011 16:02:34  -  [Debugging] opcode: 184745984
+26.01.2011 16:02:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+26.01.2011 16:02:34  -  [Debugging] Incorrect closed connection...
+26.01.2011 16:02:34  -  [Debugging] System.IO.IOException: Не удается записать данные в транспортное соединение: Программа на вашем хост-компьютере разорвала установленное подключение. ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в PointBlankServer.src.network.Server.HandleClientComm(Object client) в G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\GameServer\src\network\Server.cs:строка 172
+26.01.2011 16:02:34  -  [Debugging] Connection close.
+27.02.2011 16:14:59  -  [Debugging] STARTING Point Blank Game SERVER
+27.02.2011 16:14:59  -  [Debugging] Server by DarkTeam
+27.02.2011 16:14:59  -  [Debugging] Revision: 1
+27.02.2011 16:14:59  -  [Debugging] 
+###########################Properties###########################
+
+27.02.2011 16:15:00  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+27.02.2011 16:15:00  -  [Debugging] Server use this ip: 109.105.134.66
+27.02.2011 16:15:00  -  [Debugging] Server use this port: 39190
+27.02.2011 16:15:00  -  [Debugging] Server enabled: true
+27.02.2011 16:15:00  -  [Debugging] Connection Deny: false
+27.02.2011 16:15:00  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+27.02.2011 16:15:00  -  [Debugging] DataBase host: 127.0.0.1
+27.02.2011 16:15:00  -  [Debugging] Database port: 3306
+27.02.2011 16:15:00  -  [Debugging] Database user: root
+27.02.2011 16:15:00  -  [Debugging] Database name: PointBlank_db
+27.02.2011 16:15:00  -  [Debugging] 
+###########################Started###########################
+
+27.02.2011 16:15:11  -  [Debugging] STARTING Point Blank Game SERVER
+27.02.2011 16:15:11  -  [Debugging] Server by DarkTeam
+27.02.2011 16:15:11  -  [Debugging] Revision: 1
+27.02.2011 16:15:11  -  [Debugging] 
+###########################Properties###########################
+
+27.02.2011 16:15:11  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+27.02.2011 16:15:11  -  [Debugging] Server use this ip: 109.105.134.66
+27.02.2011 16:15:11  -  [Debugging] Server use this port: 39190
+27.02.2011 16:15:11  -  [Debugging] Server enabled: true
+27.02.2011 16:15:11  -  [Debugging] Connection Deny: false
+27.02.2011 16:15:11  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+27.02.2011 16:15:11  -  [Debugging] DataBase host: 127.0.0.1
+27.02.2011 16:15:11  -  [Debugging] Database port: 3306
+27.02.2011 16:15:11  -  [Debugging] Database user: root
+27.02.2011 16:15:11  -  [Debugging] Database name: PointBlank_db
+27.02.2011 16:15:11  -  [Debugging] 
+###########################Started###########################
+
+07.03.2011 1:47:14  -  [Debugging] STARTING Point Blank Game SERVER
+07.03.2011 1:47:14  -  [Debugging] Server by DarkTeam
+07.03.2011 1:47:14  -  [Debugging] Revision: 1
+07.03.2011 1:47:14  -  [Debugging] 
+###########################Properties###########################
+
+07.03.2011 1:47:14  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+07.03.2011 1:47:14  -  [Debugging] Server use this ip: 109.105.134.66
+07.03.2011 1:47:14  -  [Debugging] Server use this port: 39190
+07.03.2011 1:47:14  -  [Debugging] Server enabled: true
+07.03.2011 1:47:14  -  [Debugging] Connection Deny: false
+07.03.2011 1:47:14  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+07.03.2011 1:47:14  -  [Debugging] DataBase host: 127.0.0.1
+07.03.2011 1:47:14  -  [Debugging] Database port: 3306
+07.03.2011 1:47:14  -  [Debugging] Database user: root
+07.03.2011 1:47:14  -  [Debugging] Database name: PointBlank_db
+07.03.2011 1:47:14  -  [Debugging] 
+###########################Started###########################
+
+07.03.2011 1:47:20  -  [Debugging] STARTING Point Blank Game SERVER
+07.03.2011 1:47:20  -  [Debugging] Server by DarkTeam
+07.03.2011 1:47:20  -  [Debugging] Revision: 1
+07.03.2011 1:47:20  -  [Debugging] 
+###########################Properties###########################
+
+07.03.2011 1:47:20  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+07.03.2011 1:47:20  -  [Debugging] Server use this ip: 109.105.134.66
+07.03.2011 1:47:20  -  [Debugging] Server use this port: 39190
+07.03.2011 1:47:20  -  [Debugging] Server enabled: true
+07.03.2011 1:47:20  -  [Debugging] Connection Deny: false
+07.03.2011 1:47:20  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+07.03.2011 1:47:20  -  [Debugging] DataBase host: 127.0.0.1
+07.03.2011 1:47:20  -  [Debugging] Database port: 3306
+07.03.2011 1:47:20  -  [Debugging] Database user: root
+07.03.2011 1:47:20  -  [Debugging] Database name: PointBlank_db
+07.03.2011 1:47:20  -  [Debugging] 
+###########################Started###########################
+
+07.03.2011 1:47:56  -  [Debugging] STARTING Point Blank Game SERVER
+07.03.2011 1:47:56  -  [Debugging] Server by DarkTeam
+07.03.2011 1:47:56  -  [Debugging] Revision: 1
+07.03.2011 1:47:56  -  [Debugging] 
+###########################Properties###########################
+
+07.03.2011 1:47:56  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+07.03.2011 1:47:56  -  [Debugging] Server use this ip: 127.0.0.1
+07.03.2011 1:47:56  -  [Debugging] Server use this port: 39190
+07.03.2011 1:47:56  -  [Debugging] Server enabled: true
+07.03.2011 1:47:56  -  [Debugging] Connection Deny: false
+07.03.2011 1:47:56  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+07.03.2011 1:47:56  -  [Debugging] DataBase host: 127.0.0.1
+07.03.2011 1:47:56  -  [Debugging] Database port: 3306
+07.03.2011 1:47:56  -  [Debugging] Database user: root
+07.03.2011 1:47:56  -  [Debugging] Database name: PointBlank_db
+07.03.2011 1:47:56  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:15:01  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:15:02  -  [Debugging] Server by DarkTeam
+10.03.2011 14:15:02  -  [Debugging] Revision: 1
+10.03.2011 14:15:02  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:15:02  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:15:02  -  [Debugging] Server use this ip: 127.0.0.1
+10.03.2011 14:15:02  -  [Debugging] Server use this port: 39190
+10.03.2011 14:15:02  -  [Debugging] Server enabled: true
+10.03.2011 14:15:02  -  [Debugging] Connection Deny: false
+10.03.2011 14:15:02  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:15:02  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:15:02  -  [Debugging] Database port: 3306
+10.03.2011 14:15:02  -  [Debugging] Database user: root
+10.03.2011 14:15:02  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:15:02  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:17:29  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:17:29  -  [Debugging] Server by DarkTeam
+10.03.2011 14:17:29  -  [Debugging] Revision: 1
+10.03.2011 14:17:29  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:17:29  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:17:29  -  [Debugging] Server use this ip: 109.105.134.66
+10.03.2011 14:17:29  -  [Debugging] Server use this port: 39190
+10.03.2011 14:17:29  -  [Debugging] Server enabled: true
+10.03.2011 14:17:29  -  [Debugging] Connection Deny: false
+10.03.2011 14:17:29  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:17:29  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:17:29  -  [Debugging] Database port: 3306
+10.03.2011 14:17:29  -  [Debugging] Database user: root
+10.03.2011 14:17:29  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:17:29  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:18:35  -  [Debugging] Client connected.
+10.03.2011 14:18:37  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:18:39  -  [Debugging] opcode: 169017378
+10.03.2011 14:18:39  -  [Debugging] Sending packet LOGIN_PUZZLE4
+10.03.2011 14:18:39  -  [Debugging] opcode: 168493056
+10.03.2011 14:18:39  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:18:41  -  [Debugging] opcode: 168624132
+10.03.2011 14:18:41  -  [Debugging] Sending packet LOGIN_PUZZLE6
+10.03.2011 14:18:41  -  [Debugging] opcode: 184614912
+10.03.2011 14:18:41  -  [Debugging] Sending packet LOGIN_PUZZLE7
+10.03.2011 14:18:42  -  [Debugging] opcode: 218431492
+10.03.2011 14:18:43  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:43  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:43  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:45  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:45  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:45  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:47  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:47  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:47  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:49  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:49  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:49  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:51  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:51  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:51  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:53  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:53  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:53  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:55  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:55  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:55  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:57  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:57  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:57  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:18:59  -  [Debugging] opcode: 184745984
+10.03.2011 14:18:59  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:18:59  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:00  -  [Debugging] opcode: 169148448
+10.03.2011 14:19:01  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:01  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:01  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:03  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:03  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:03  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:05  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:05  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:05  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:06  -  [Debugging] opcode: 201392128
+10.03.2011 14:19:07  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:07  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:07  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:09  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:09  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:09  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:11  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:11  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:11  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:13  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:13  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:13  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:15  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:15  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:15  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:17  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:17  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:17  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:19  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:19  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:19  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:19:23  -  [Debugging] opcode: 184745984
+10.03.2011 14:19:23  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:19:26  -  [Debugging] Incorrect closed connection...
+10.03.2011 14:19:26  -  [Debugging] System.IO.IOException: Не удается записать данные в транспортное соединение: Программа на вашем хост-компьютере разорвала установленное подключение. ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в PointBlankServer.src.network.Server.HandleClientComm(Object client) в F:\30.01.11\PointBlankServer\GameServer\src\network\Server.cs:строка 173
+10.03.2011 14:19:26  -  [Debugging] Connection close.
+10.03.2011 14:27:38  -  [Debugging] Client connected.
+10.03.2011 14:27:39  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:27:41  -  [Debugging] opcode: 169017378
+10.03.2011 14:27:41  -  [Debugging] Sending packet LOGIN_PUZZLE4
+10.03.2011 14:27:41  -  [Debugging] opcode: 168493056
+10.03.2011 14:27:41  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:27:43  -  [Debugging] opcode: 168624132
+10.03.2011 14:27:43  -  [Debugging] Sending packet LOGIN_PUZZLE6
+10.03.2011 14:27:44  -  [Debugging] opcode: 184614912
+10.03.2011 14:27:44  -  [Debugging] Sending packet LOGIN_PUZZLE7
+10.03.2011 14:27:44  -  [Debugging] opcode: 218431492
+10.03.2011 14:27:45  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:45  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:47  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:47  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:47  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:49  -  [Debugging] opcode: 201392128
+10.03.2011 14:27:49  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:49  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:49  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:51  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:51  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:53  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:53  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:55  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:55  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:55  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:57  -  [Debugging] opcode: 218169348
+10.03.2011 14:27:57  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:57  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:27:59  -  [Debugging] opcode: 184745984
+10.03.2011 14:27:59  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:27:59  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:28:10  -  [Debugging] opcode: 184745984
+10.03.2011 14:28:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:28:10  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:32:19  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:32:19  -  [Debugging] Server by DarkTeam
+10.03.2011 14:32:19  -  [Debugging] Revision: 1
+10.03.2011 14:32:19  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:32:19  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:32:19  -  [Debugging] Server use this ip: 109.105.134.66
+10.03.2011 14:32:19  -  [Debugging] Server use this port: 39190
+10.03.2011 14:32:19  -  [Debugging] Server enabled: true
+10.03.2011 14:32:19  -  [Debugging] Connection Deny: false
+10.03.2011 14:32:19  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:32:19  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:32:19  -  [Debugging] Database port: 3306
+10.03.2011 14:32:19  -  [Debugging] Database user: root
+10.03.2011 14:32:19  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:32:19  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:33:09  -  [Debugging] Client connected.
+10.03.2011 14:33:10  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:33:15  -  [Debugging] opcode: 169017378
+10.03.2011 14:34:15  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:34:15  -  [Debugging] Server by DarkTeam
+10.03.2011 14:34:15  -  [Debugging] Revision: 1
+10.03.2011 14:34:15  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:34:15  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:34:15  -  [Debugging] Server use this ip: 109.105.134.66
+10.03.2011 14:34:15  -  [Debugging] Server use this port: 39190
+10.03.2011 14:34:15  -  [Debugging] Server enabled: true
+10.03.2011 14:34:15  -  [Debugging] Connection Deny: false
+10.03.2011 14:34:15  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:34:15  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:34:15  -  [Debugging] Database port: 3306
+10.03.2011 14:34:15  -  [Debugging] Database user: root
+10.03.2011 14:34:15  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:34:15  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:35:05  -  [Debugging] Client connected.
+10.03.2011 14:35:06  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:35:07  -  [Debugging] opcode: 169017378
+10.03.2011 14:36:26  -  [Debugging] Sending packet LOGIN_PUZZLE4
+10.03.2011 14:36:26  -  [Debugging] opcode: 168755200
+10.03.2011 14:36:27  -  [Debugging] opcode: 168493056
+10.03.2011 14:36:31  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:36:32  -  [Debugging] opcode: 168493056
+10.03.2011 14:36:33  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:36:34  -  [Debugging] opcode: 168624132
+10.03.2011 14:37:45  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:37:45  -  [Debugging] Server by DarkTeam
+10.03.2011 14:37:45  -  [Debugging] Revision: 1
+10.03.2011 14:37:45  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:37:45  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:37:45  -  [Debugging] Server use this ip: 109.105.134.66
+10.03.2011 14:37:45  -  [Debugging] Server use this port: 39190
+10.03.2011 14:37:45  -  [Debugging] Server enabled: true
+10.03.2011 14:37:45  -  [Debugging] Connection Deny: false
+10.03.2011 14:37:45  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:37:45  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:37:45  -  [Debugging] Database port: 3306
+10.03.2011 14:37:45  -  [Debugging] Database user: root
+10.03.2011 14:37:45  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:37:45  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:38:35  -  [Debugging] Client connected.
+10.03.2011 14:38:36  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:38:37  -  [Debugging] opcode: 169017378
+10.03.2011 14:38:37  -  [Debugging] Sending packet LOGIN_PUZZLE4
+10.03.2011 14:38:38  -  [Debugging] opcode: 168493056
+10.03.2011 14:38:38  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:38:40  -  [Debugging] opcode: 168624132
+10.03.2011 14:38:40  -  [Debugging] Sending packet LOGIN_PUZZLE6
+10.03.2011 14:38:41  -  [Debugging] opcode: 184614912
+10.03.2011 14:38:41  -  [Debugging] Sending packet LOGIN_PUZZLE7
+10.03.2011 14:38:42  -  [Debugging] opcode: 218431492
+10.03.2011 14:38:42  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:42  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:42  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:44  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:44  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:44  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:46  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:46  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:48  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:50  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:50  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:50  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:52  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:52  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:53  -  [Debugging] opcode: 35651584
+10.03.2011 14:38:54  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:54  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:54  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:56  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:56  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:56  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:38:58  -  [Debugging] opcode: 184745984
+10.03.2011 14:38:58  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:38:58  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:00  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:00  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:00  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:02  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:02  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:02  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:03  -  [Debugging] opcode: 35651584
+10.03.2011 14:39:04  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:04  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:06  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:08  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:08  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:10  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:10  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:10  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:12  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:12  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:12  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:14  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:16  -  [Debugging] opcode: 169148448
+10.03.2011 14:39:16  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:16  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:18  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:18  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:19  -  [Debugging] opcode: 201392128
+10.03.2011 14:39:20  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:22  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:22  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:24  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:25  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:25  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:26  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:27  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:27  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:27  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:28  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:28  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:29  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:30  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:30  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:30  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:32  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:32  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:32  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:33  -  [Debugging] opcode: 35651584
+10.03.2011 14:39:34  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:34  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:34  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:36  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:36  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:36  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:38  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:38  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:38  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:39  -  [Debugging] opcode: 201392128
+10.03.2011 14:39:40  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:40  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:40  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:45  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:45  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:45  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:46  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:46  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:47  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:48  -  [Debugging] opcode: 35651584
+10.03.2011 14:39:48  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:48  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:48  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:39:52  -  [Debugging] opcode: 184745984
+10.03.2011 14:39:52  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:39:53  -  [Debugging] Incorrect closed connection...
+10.03.2011 14:39:53  -  [Debugging] System.IO.IOException: Не удается записать данные в транспортное соединение: Программа на вашем хост-компьютере разорвала установленное подключение. ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в PointBlankServer.src.network.Server.HandleClientComm(Object client) в F:\30.01.11\PointBlankServer\GameServer\src\network\Server.cs:строка 173
+10.03.2011 14:39:53  -  [Debugging] Connection close.
+10.03.2011 14:43:30  -  [Debugging] STARTING Point Blank Game SERVER
+10.03.2011 14:43:30  -  [Debugging] Server by DarkTeam
+10.03.2011 14:43:30  -  [Debugging] Revision: 1
+10.03.2011 14:43:30  -  [Debugging] 
+###########################Properties###########################
+
+10.03.2011 14:43:30  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+10.03.2011 14:43:30  -  [Debugging] Server use this ip: 109.105.134.66
+10.03.2011 14:43:30  -  [Debugging] Server use this port: 39190
+10.03.2011 14:43:30  -  [Debugging] Server enabled: true
+10.03.2011 14:43:30  -  [Debugging] Connection Deny: false
+10.03.2011 14:43:30  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+10.03.2011 14:43:30  -  [Debugging] DataBase host: 127.0.0.1
+10.03.2011 14:43:30  -  [Debugging] Database port: 3306
+10.03.2011 14:43:30  -  [Debugging] Database user: root
+10.03.2011 14:43:30  -  [Debugging] Database name: PointBlank_db
+10.03.2011 14:43:30  -  [Debugging] 
+###########################Started###########################
+
+10.03.2011 14:44:34  -  [Debugging] Client connected.
+10.03.2011 14:44:35  -  [Debugging] Sending packet LOGIN_REQUEST
+10.03.2011 14:44:36  -  [Debugging] opcode: 169017378
+10.03.2011 14:44:36  -  [Debugging] Sending packet LOGIN_PUZZLE4
+10.03.2011 14:44:36  -  [Debugging] opcode: 168493056
+10.03.2011 14:44:36  -  [Debugging] Sending packet LOGIN_PUZZLE5
+10.03.2011 14:44:37  -  [Debugging] opcode: 168624132
+10.03.2011 14:44:37  -  [Debugging] Sending packet LOGIN_PUZZLE6
+10.03.2011 14:44:38  -  [Debugging] opcode: 184614912
+10.03.2011 14:44:38  -  [Debugging] Sending packet LOGIN_PUZZLE7
+10.03.2011 14:44:38  -  [Debugging] opcode: 218431492
+10.03.2011 14:44:39  -  [Debugging] opcode: 184745984
+10.03.2011 14:44:39  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:44:39  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:44:41  -  [Debugging] opcode: 184745984
+10.03.2011 14:44:41  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:44:41  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:14  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:14  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:14  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:15  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:15  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:16  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:17  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:17  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:17  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:18  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:18  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:19  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:20  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:20  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:20  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:21  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:21  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:22  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:45:23  -  [Debugging] opcode: 35651584
+10.03.2011 14:45:23  -  [Debugging] opcode: 184745984
+10.03.2011 14:45:23  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:45:23  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:04  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:04  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:05  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:06  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:06  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:06  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:07  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:07  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:08  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:09  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:09  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:09  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:11  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:11  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:11  -  [Debugging] Sending packet LOGIN_PUZZLE9
+10.03.2011 14:46:13  -  [Debugging] opcode: 184745984
+10.03.2011 14:46:13  -  [Debugging] Sending packet LOGIN_PUZZLE8
+10.03.2011 14:46:13  -  [Debugging] Sending packet LOGIN_PUZZLE9
+16.07.2011 23:27:27  -  [Debugging] STARTING Point Blank Game SERVER
+16.07.2011 23:27:27  -  [Debugging] Server by DarkTeam
+16.07.2011 23:27:27  -  [Debugging] Revision: 1
+16.07.2011 23:27:27  -  [Debugging] 
+###########################Properties###########################
+
+16.07.2011 23:27:27  -  [Debugging] settings/NetworkSettings.xml successfully loaded
+16.07.2011 23:27:27  -  [Debugging] Server use this ip: 109.105.134.66
+16.07.2011 23:27:27  -  [Debugging] Server use this port: 39190
+16.07.2011 23:27:27  -  [Debugging] Server enabled: true
+16.07.2011 23:27:27  -  [Debugging] Connection Deny: false
+16.07.2011 23:27:27  -  [Debugging] settings/DatabaseSettings.xml successfully loaded
+16.07.2011 23:27:27  -  [Debugging] DataBase host: 127.0.0.1
+16.07.2011 23:27:27  -  [Debugging] Database port: 3306
+16.07.2011 23:27:27  -  [Debugging] Database user: root
+16.07.2011 23:27:27  -  [Debugging] Database name: PointBlank_db
+16.07.2011 23:27:27  -  [Debugging] 
+###########################Started###########################
+

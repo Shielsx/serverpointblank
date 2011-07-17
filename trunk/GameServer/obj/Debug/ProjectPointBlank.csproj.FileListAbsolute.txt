@@ -1,0 +1,8 @@
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\LogLG.dll
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\obj\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\GameServer\obj\Debug\Point Blank Server.pdb
