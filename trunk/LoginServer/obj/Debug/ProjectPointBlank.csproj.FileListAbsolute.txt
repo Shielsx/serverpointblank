@@ -1,0 +1,20 @@
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\bin\Debug\LogLG.dll
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\LoginServer\obj\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\obj\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\obj\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\bin\Debug\Point Blank Server.exe
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\bin\Debug\Point Blank Server.pdb
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\bin\Debug\LogLG.dll
+G:\Documents and Settings\DarkSkeleton\Рабочий стол\PointBlankServer\LoginServer\obj\Debug\ResolveAssemblyReference.cache
+F:\30.01.11\PointBlankServer\LoginServer\obj\Debug\Point Blank Server.exe
+F:\30.01.11\PointBlankServer\LoginServer\obj\Debug\Point Blank Server.pdb
+F:\30.01.11\PointBlankServer\LoginServer\bin\Debug\Point Blank Server.exe
+F:\30.01.11\PointBlankServer\LoginServer\bin\Debug\LogLG.dll
+F:\30.01.11\PointBlankServer\LoginServer\obj\Debug\ResolveAssemblyReference.cache
+F:\30.01.11\PointBlankServer\LoginServer\bin\Debug\Point Blank Server.pdb
+F:\30.01.11\PointBlankServer\LoginServer\bin\Debug\Point Blank Server.exe.config
+F:\30.01.11\PointBlankServer\LoginServer\bin\Debug\MySql.Data.dll
