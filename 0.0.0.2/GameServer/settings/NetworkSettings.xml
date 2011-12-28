@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+ <Settings>
+<!-- Ip Address, which server will use for connections -->
+    <ip>109.105.134.66</ip>
+<!-- Port, which server will use for connections -->
+    <port>39190</port>
+<!-- Connection true -->
+    <connector>true</connector>
+<!-- ConnectionDeny False -->
+    <ConnectionDeny>true</ConnectionDeny>
+ </Settings>
